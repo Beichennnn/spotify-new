@@ -1,0 +1,4 @@
+venv/
+newsapi.txt
+spotify_keys.json
+.ipynb_checkpoints/
